@@ -120,7 +120,6 @@
         },
         watch: {
             current () {
-                console.log('in')
             },
         },
     }
